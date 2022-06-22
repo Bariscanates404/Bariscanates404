@@ -22,8 +22,6 @@
 - ⭐ I use java for building test scripts. I can use Cucumber, TestNG, Junit, Postman, Rest Assured, Appium. 
 
 
-
-
 <br />
 
 #### Find me on  
