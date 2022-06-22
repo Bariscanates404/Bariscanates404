@@ -15,7 +15,7 @@
 
 - 💻 I’m currently improving myself about UI - API and Database test tecnologies
 
-- ⭐ 2021's Objective: To begin work in a professional team and company
+- ⚡ 2021's Objective: To begin work in a professional team and company
 
 - ⚡ I love Speleology, camping, table tennis, chess, and of course software development
 
