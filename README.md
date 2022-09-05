@@ -9,19 +9,21 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bariscanates" target="_blank" rel="noopener noreferrer">Barış Can</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-<a href="https://www.linkedin.com/in/bariscanates"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+
 
 - 🎓 I'm a chess player who has a dream about being a software engineer!  
 
 - 💻 I’m currently improving myself about UI - API and Database test tecnologies
 
-- ⚡ 2021's Objective: To begin work in a professional team and company
+- ⚡ 2021's Objective: To begin work in a professional team and company (Done!)
+
+- ⚡ 2022's Objective: Mastering in Cypress and JavaScript 
 
 - ⚡ I love Speleology, camping, table tennis, chess, and of course software development
 
-- ⭐ I use java for building test scripts. I can use Cucumber, TestNG, Junit, Postman, Rest Assured, Appium. 
+- ⭐ I use java, javascript for building test scripts. I can use Cucumber, TestNG, Junit, Postman, Rest Assured, Appium
 
-
+- 💻 I use Selenium & Cypress actively.
 <br />
 
 #### Find me on  
