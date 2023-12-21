@@ -15,8 +15,11 @@ Hey, I'm Barış Can, a Full stack Clojure developer exploring the depths of fun
 🌐 Former chess player, now aspiring software engineer!
 
 ⚡ Excited about reactive programming and Electric – a Clojure/Script DSL reshaping client/server state sync. Achieving seamless composition in dynamic web apps, Electric eliminates the client/server barrier. Queries and views are composed directly, thanks to Electric macros performing data flow analysis at compile time. No client/server divide; all IO and effects are effortlessly managed.
+
 🚀 Firmly believes Electric is the future of global software development.
+
 🌱 Embarking on the path to becoming a reliable Clojure developer. Committed to learning and growing with sincerity. Excited about the journey ahead and open to the possibilities!
+
 💖 Absolutely enjoys working with the REPL! 🔄💖
 
 🌟 Interests:
