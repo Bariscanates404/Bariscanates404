@@ -25,7 +25,7 @@ Hello, I'm Barış Can! I'm a Full-stack Clojure developer, passionate about exp
 
 ## 🌟 Interests:
 
-Passionate about Speleology, camping, table tennis, chess, and functional programming.
+Passionate about Speleology, camping, table tennis, chess, scripting, and software development.
 
 ## ⭐ Tech Stack:
 
