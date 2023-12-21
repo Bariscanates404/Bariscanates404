@@ -9,10 +9,11 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/bariscanates" target="_blank" rel="noopener noreferrer">Barış Can</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
+## 🌟 Who Am I:
 
-Hey, I'm Barış Can, a Full stack Clojure developer exploring the depths of functional programming.
+Hello, I'm Barış Can! I'm a Full-stack Clojure developer, passionate about exploring the depths of functional programming.
 
-🌐 Former chess player, now aspiring software engineer!
+🌐 Former chess player turned aspiring software engineer!
 
 ⚡ Excited about reactive programming and Electric – a Clojure/Script DSL reshaping client/server state sync. Achieving seamless composition in dynamic web apps, Electric eliminates the client/server barrier. Queries and views are composed directly, thanks to Electric macros performing data flow analysis at compile time. No client/server divide; all IO and effects are effortlessly managed.
 
@@ -20,20 +21,18 @@ Hey, I'm Barış Can, a Full stack Clojure developer exploring the depths of fun
 
 🌱 Embarking on the path to becoming a reliable Clojure developer. Committed to learning and growing with sincerity. Excited about the journey ahead and open to the possibilities!
 
-💖 Absolutely enjoys working with the REPL! 🔄💖
+💖 Absolutely enjoys working with the REPL!
 
-🌟 Interests:
+## 🌟 Interests:
 
 Passionate about Speleology, camping, table tennis, chess, and functional programming.
 
-⭐ Tech Stack:
+## ⭐ Tech Stack:
 
-Utilizes Clojure, ClojureScript, Electric DSL, Datomic, SQL, Reagent, React, microservices architecture, and Docker for a robust and versatile tech stack.
-Proficient in tools like Java, JavaScript, Python, and Ruby for building test scripts.
-Engaged with tools such as Cucumber, TestNG, JUnit, Selenium, Cypress, and Postman.
+Utilizes Clojure, ClojureScript, Electric DSL, Datomic, SQL, Reagent, React, microservices architecture, and Docker for a robust and versatile tech stack. Proficient in tools like Java, JavaScript, Python, and Ruby for building test scripts. Engaged with tools such as Cucumber, TestNG, JUnit, Selenium, Cypress, and Postman.
 
 📚 Eager to learn and contribute to the world of functional programming!
-<br />
+
 
 #### Find me on  
 
