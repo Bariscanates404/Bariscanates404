@@ -27,7 +27,7 @@ Passionate about Speleology, camping, table tennis, chess, scripting, and softwa
 
 ## ⭐ Tech Stack:
 
-Utilizes Clojure, ClojureScript, Electric DSL, Datomic, SQL, Reagent, React, microservices architecture, and Docker for a robust and versatile tech stack. Proficient in tools like Java, JavaScript, Python, and Ruby for building test scripts. Engaged with tools such as Cucumber, TestNG, JUnit, Selenium, Cypress, and Postman.
+Utilizes Clojure, ClojureScript, Electric DSL, Datomic, SQL, Reagent, React, microservices architecture, and Docker for a robust and versatile tech stack. Proficient in tools like Java, JavaScript, and Python for building test scripts. Engaged with tools such as Cucumber, TestNG, JUnit, Selenium, Cypress, and Postman.
 
 📚 Eager to learn and contribute to the world of functional programming!
 
