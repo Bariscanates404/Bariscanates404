@@ -7,30 +7,49 @@
 
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
-## 🌟 Who Am I:
+## 🌟 Who Am I
 
-Hello, I'm Barış Can! I'm a Full-stack Clojure developer, passionate about exploring the depths of functional programming.
+Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experience across **full-stack Clojure development** and **test automation**, based in **Tokyo** 🗼
 
-🌐 Former chess player turned aspiring software engineer!
+- 💼 Currently **Clojure & Test Automation Engineer @ United Signals** (fintech · remote)
+- ♟️ Former competitive chess player & coach, turned functional-programming engineer
+- ⚡ In love with **Electric Clojure** — the Clojure/Script DSL that erases the client/server divide, composing queries and views directly through compile-time data-flow analysis
+- 🧪 I build the software **and** the automated tests that keep it reliable
+- 🎓 ISTQB-certified
+- 💖 Happiest at the REPL
+- 🌏 Work-authorized in Japan · JLPT N3 · professional English
 
-⚡ Excited about reactive programming and Electric – a Clojure/Script DSL reshaping client/server state sync. Achieving seamless composition in dynamic web apps, Electric eliminates the client/server barrier. Queries and views are composed directly, thanks to Electric macros performing data flow analysis at compile time. No client/server divide; all IO and effects are effortlessly managed.
+## 💼 Experience
 
-🚀 Firmly believes Electric is the future of global software development.
+| Role | Where | When |
+|---|---|---|
+| Software Engineer — Clojure & Test Automation | **United Signals** · fintech, Germany (remote) | 2024 – present |
+| Clojure / ClojureScript Developer | **Layermark** · Datomic Cloud + Electric Clojure (USA) | 2023 – 2024 |
+| SDET / Test Automation Engineer | **Layermark** · water-utility field automation | 2022 – 2023 |
 
-🌱 Embarking on the path to becoming a reliable Clojure developer. Committed to learning and growing with sincerity. Excited about the journey ahead and open to the possibilities!
+## ⭐ Tech Stack
 
-💖 Absolutely enjoys working with the REPL!
+**Languages & FP** · Clojure · ClojureScript · Babashka · Java · TypeScript / JavaScript · Python
+**Data & Backend** · Datomic Cloud · Datalog · PostgreSQL · microservices
+**Frontend** · Electric Clojure · Reagent · React
+**Test Automation** · Playwright · Selenium · Cypress · TestNG · Cucumber (BDD) · Postman
+**Tooling** · Docker · Git · GitHub / GitLab · REPL-driven development
 
-## 🌟 Interests:
+![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white)
+![ClojureScript](https://img.shields.io/badge/-ClojureScript-5881D8?style=flat-square&logo=clojure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Passionate about Speleology, camping, table tennis, chess, scripting, and software development.
+## 🌱 Interests
 
-## ⭐ Tech Stack:
-
-Utilizes Clojure, ClojureScript, Electric DSL, Datomic, SQL, Reagent, React, microservices architecture, and Docker for a robust and versatile tech stack. Proficient in tools like Java, JavaScript, and Python for building test scripts. Engaged with tools such as Cucumber, TestNG, JUnit, Selenium, Cypress, and Postman.
-
-📚 Eager to learn and contribute to the world of functional programming!
-
+Speleology, camping, table tennis, ♟️ chess, scripting, and building things for the fun of it.
 
 #### Find me on  
 
@@ -42,4 +61,3 @@ Utilizes Clojure, ClojureScript, Electric DSL, Datomic, SQL, Reagent, React, mic
 
  
  </p>
-
