@@ -9,14 +9,14 @@
 
 ## 🌟 Who Am I
 
-Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experience across **full-stack Clojure development**, **test automation**, and **deployment / ops automation**, based in **Tokyo** 🗼
+Hi, I'm **Barış Can Ateş** — a software engineer with **6+ years** across **full-stack Clojure development**, **QA & test automation**, **AI-assisted development**, and **deployment / ops automation**, based in **Tokyo** 🗼
 
 - 💼 Currently **Clojure & Test Automation Engineer @ United Signals** (fintech · remote)
 - ♟️ Former competitive chess player & coach, turned functional-programming engineer
 - ⚡ In love with **Electric Clojure** — the Clojure/Script DSL that erases the client/server divide, composing queries and views directly through compile-time data-flow analysis
-- 🧪 I build the software **and** the automated tests that keep it reliable
+- 🧪 **Strong QA / test automation** (ISTQB): Selenium, Cucumber, TestNG, Playwright across UI, API & BDD
+- 🤖 **AI-assisted development** (~1 yr): building with LLMs & AI coding agents; authored an MCP server that orchestrates Claude + Codex agents
 - ⚙️ Automated my company's deployments **end-to-end** — CI/CD pipelines + Babashka operational automation, with production-deployment ownership
-- 🎓 ISTQB-certified
 - 💖 Happiest at the REPL
 - 🌏 Work-authorized in Japan · JLPT N3 · professional English
 
@@ -33,7 +33,8 @@ Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experi
 **Languages & FP** · Clojure · ClojureScript · Babashka · Java · TypeScript / JavaScript · Python
 **Data & Backend** · Datomic Cloud · Datalog · PostgreSQL · microservices
 **Frontend** · Electric Clojure · Reagent · React
-**Test Automation** · Playwright · Selenium · Cypress · TestNG · Cucumber (BDD) · Postman
+**QA & Test Automation** · Playwright · Selenium · Cypress · TestNG · Cucumber (BDD) · Postman · ISTQB
+**AI** · LLMs (Claude, Codex) · AI coding agents · MCP (Model Context Protocol) · prompt engineering
 **DevOps & Automation** · CI/CD pipelines (GitHub Actions / GitLab CI) · Babashka scripting · deployment & workflow automation · production operations
 **Tooling** · Docker · Git · GitHub / GitLab · REPL-driven development
 
@@ -50,6 +51,8 @@ Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experi
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Babashka](https://img.shields.io/badge/-Babashka-32B6A4?style=flat-square&logo=clojure&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-6E56CF?style=flat-square)
 
 ## 🌱 Interests
 
