@@ -9,12 +9,13 @@
 
 ## 🌟 Who Am I
 
-Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experience across **full-stack Clojure development** and **test automation**, based in **Tokyo** 🗼
+Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experience across **full-stack Clojure development**, **test automation**, and **deployment / ops automation**, based in **Tokyo** 🗼
 
 - 💼 Currently **Clojure & Test Automation Engineer @ United Signals** (fintech · remote)
 - ♟️ Former competitive chess player & coach, turned functional-programming engineer
 - ⚡ In love with **Electric Clojure** — the Clojure/Script DSL that erases the client/server divide, composing queries and views directly through compile-time data-flow analysis
 - 🧪 I build the software **and** the automated tests that keep it reliable
+- ⚙️ Automated my company's deployments **end-to-end** — CI/CD pipelines + Babashka operational automation, with production-deployment ownership
 - 🎓 ISTQB-certified
 - 💖 Happiest at the REPL
 - 🌏 Work-authorized in Japan · JLPT N3 · professional English
@@ -33,6 +34,7 @@ Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experi
 **Data & Backend** · Datomic Cloud · Datalog · PostgreSQL · microservices
 **Frontend** · Electric Clojure · Reagent · React
 **Test Automation** · Playwright · Selenium · Cypress · TestNG · Cucumber (BDD) · Postman
+**DevOps & Automation** · CI/CD pipelines (GitHub Actions / GitLab CI) · Babashka scripting · deployment & workflow automation · production operations
 **Tooling** · Docker · Git · GitHub / GitLab · REPL-driven development
 
 ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white)
@@ -46,6 +48,8 @@ Hi, I'm **Barış Can Ateş** — a software engineer with **5 years** of experi
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Babashka](https://img.shields.io/badge/-Babashka-32B6A4?style=flat-square&logo=clojure&logoColor=white)
 
 ## 🌱 Interests
 
