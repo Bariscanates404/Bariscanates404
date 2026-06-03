@@ -33,9 +33,9 @@ Hi, I'm **Barış Can Ateş** — a software engineer with **6+ years** across *
 **Languages & FP** · Clojure · ClojureScript · Babashka · Java · TypeScript / JavaScript · Python
 **Data & Backend** · Datomic Cloud · Datalog · PostgreSQL · microservices
 **Frontend** · Electric Clojure · Reagent · React
-**QA & Test Automation** · Playwright · Selenium · Cypress · TestNG · Cucumber (BDD) · Postman · ISTQB
+**QA & Test Automation** · Playwright · Selenium · Cypress · TestNG · Cucumber (BDD) · Postman · ISTQB · Selenium Grid · test sharding / parallel execution
 **AI** · LLMs (Claude, Codex) · AI coding agents · MCP (Model Context Protocol) · prompt engineering
-**DevOps & Automation** · CI/CD pipelines (GitHub Actions / GitLab CI) · Babashka scripting · deployment & workflow automation · production operations
+**DevOps & Automation** · CI/CD pipelines (GitHub Actions / GitLab CI) · Babashka scripting · deployment & workflow automation · test/machine sharding across CI runners · production operations
 **Tooling** · Docker · Git · GitHub / GitLab · REPL-driven development
 
 ![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white)
