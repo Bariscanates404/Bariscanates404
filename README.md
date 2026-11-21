@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bariscanates404/Bariscanates404/output/github-snake-dark.svg">
-  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Bariscanates404/Bariscanates404/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bariscanates404/Bariscanates404/output/contributions-dark.svg">
+  <img alt="My contribution graph for the last year, with a snake eating it" src="https://raw.githubusercontent.com/Bariscanates404/Bariscanates404/output/contributions.svg">
 </picture>
 
 ### Hi, I'm Barış 👋

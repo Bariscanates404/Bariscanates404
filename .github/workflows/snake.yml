@@ -1,4 +1,4 @@
-name: contribution snake
+name: contribution card
 
 on:
   schedule:
@@ -21,6 +21,15 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: contribution card
+        run: node .github/scripts/card.mjs ${{ github.repository_owner }} dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
