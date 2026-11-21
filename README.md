@@ -1,70 +1,52 @@
-<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bariscanates404/Bariscanates404/output/github-snake-dark.svg">
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Bariscanates404/Bariscanates404/output/github-snake.svg">
+</picture>
 
-**Baris Can Ates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Barış 👋
 
--->
+Software engineer in Tokyo. For the last year and a half I have worked full-time on **AI-assisted and agentic
+development**: the harness around a coding agent, meaning what it knows before it edits, what it asks a person, and what
+it keeps for the next run.
 
+## 🧭 What I work on
 
-![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+- **Harness engineering.** Hooks, gates, context delivery and work records that sit between a coding agent and a
+  codebase. [AtlasBound](https://atlasbound.dev) grew out of this work: **DecisionBook** and **Bound** are parts of the
+  harness my own agents run in. Interactive Claude Code sessions and remote pipelines alike start from the decisions
+  already recorded and the code already mapped, instead of guessing them again.
+- **Local models.** I run and fine-tune open models (9B, 30B and 70B parameters) on GPU rigs at home, left over from my
+  mining days, to learn first-hand how training and evaluation behave.
+- **Clojure and test automation.** Clojure/ClojureScript, Babashka and Datomic; Playwright, Selenium, BDD and CI test
+  sharding.
 
-## 🌟 Who Am I
+## 🚀 Projects
 
-Hi, I'm **Barış Can Ateş** — a software engineer with **6+ years** across **full-stack Clojure development**, **QA & test automation**, **AI-assisted development**, and **deployment / ops automation**, based in **Tokyo** 🗼
-
-- 💼 Currently **Clojure & Test Automation Engineer @ United Signals** (fintech · remote)
-- ♟️ Former competitive chess player & coach, turned functional-programming engineer
-- ⚡ In love with **Electric Clojure** — the Clojure/Script DSL that erases the client/server divide, composing queries and views directly through compile-time data-flow analysis
-- 🧪 **Strong QA / test automation** (ISTQB): Selenium, Cucumber, TestNG, Playwright across UI, API & BDD
-- 🤖 **AI-assisted development** (~1 yr): building with LLMs & AI coding agents; authored an MCP server that orchestrates Claude + Codex agents
-- ⚙️ Automated my company's deployments **end-to-end** — CI/CD pipelines + Babashka operational automation, with production-deployment ownership
-- 💖 Happiest at the REPL
-- 🌏 Work-authorized in Japan · JLPT N3 · professional English
+| Project | What it does |
+|---|---|
+| **[DecisionBook + Handoff](https://github.com/Bariscanates404/decisionbook)** | Local work memory for Claude Code. Before an edit the agent researches the code and asks what the code can't answer; the findings, your answers in your own words and the checks stay beside the code, and Handoff carries the work across `/clear`. Open source (AGPL-3.0). |
+| **[Bound](https://atlasbound.dev/en/bound/)** | Maps a feature's flow across an application, from the UI action to the request, data and background jobs, each step with its file and line, plus the patterns a team builds with. Closed beta. |
+| **[clojure-atlas](https://github.com/Bariscanates404/clojure-atlas)** | A structural map of a Clojure/ClojureScript codebase for AI coding agents, served over MCP: callers, map keys, routes, re-frame events and tests, each with evidence. |
+| **[claude-nyan](https://github.com/Bariscanates404/claude-nyan)** | Which Claude Code tab is done? A tab signal and a rainbow status line for macOS Terminal. |
+| **[uzay-itki-lab](https://github.com/Bariscanates404/uzay-itki-lab)** | An animated, interactive space-physics course in vanilla HTML5 Canvas: 36 lessons, no build, no dependencies. |
+| **[sql-dojo](https://github.com/Bariscanates404/sql-dojo)** | An interactive SQL teaching app: in-browser Postgres practice with auto-graded lessons. |
 
 ## 💼 Experience
 
 | Role | Where | When |
 |---|---|---|
-| Software Engineer — Clojure & Test Automation | **United Signals** · fintech, Germany (remote) | 2024 – present |
-| Clojure / ClojureScript Developer | **Layermark** · Datomic Cloud + Electric Clojure (USA) | 2023 – 2024 |
-| SDET / Test Automation Engineer | **Layermark** · water-utility field automation | 2022 – 2023 |
+| Software Engineer, Clojure & Test Automation | **United Signals** · fintech (remote) | 2024 – present |
+| Clojure / ClojureScript Developer | **Layermark** · Datomic Cloud, Electric Clojure | 2023 – 2024 |
+| SDET / Test Automation Engineer | **Layermark** | 2022 – 2023 |
+| … | | |
 
-## ⭐ Tech Stack
+## 🛠 Tools
 
-**Languages & FP** · Clojure · ClojureScript · Babashka · Java · TypeScript / JavaScript · Python
-**Data & Backend** · Datomic Cloud · Datalog · PostgreSQL · microservices
-**Frontend** · Electric Clojure · Reagent · React
-**QA & Test Automation** · Playwright · Selenium · Cypress · TestNG · Cucumber (BDD) · Postman · ISTQB · Selenium Grid · test sharding / parallel execution
-**AI** · LLMs (Claude, Codex) · AI coding agents · MCP (Model Context Protocol) · prompt engineering
-**DevOps & Automation** · CI/CD pipelines (GitHub Actions / GitLab CI) · Babashka scripting · deployment & workflow automation · test/machine sharding across CI runners · production operations
-**Tooling** · Docker · Git · GitHub / GitLab · REPL-driven development
+**AI** · Claude Code · agent harnesses · MCP servers · local LLMs and fine-tuning
+**Clojure** · ClojureScript · Babashka · Datomic · Electric Clojure · re-frame · REPL-driven development
+**Testing** · Playwright · Selenium · Cypress · Cucumber (BDD) · API testing · ISTQB
+**Also** · TypeScript / JavaScript · Java · Python · PostgreSQL · Docker · GitHub Actions
 
-![Clojure](https://img.shields.io/badge/-Clojure-5881D8?style=flat-square&logo=clojure&logoColor=white)
-![ClojureScript](https://img.shields.io/badge/-ClojureScript-5881D8?style=flat-square&logo=clojure&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Babashka](https://img.shields.io/badge/-Babashka-32B6A4?style=flat-square&logo=clojure&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-6E56CF?style=flat-square)
+Away from the keyboard: chess (former competitive player and coach), caving, camping and table tennis.
 
-## 🌱 Interests
-
-Speleology, camping, table tennis, ♟️ chess, scripting, and building things for the fun of it.
-
-#### Find me on  
-
- <p align='left'>
-
- <a href="https://www.linkedin.com/in/bariscanates" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
-
- <a href="https://www.instagram.com/katarn_ken" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>&nbsp;&nbsp;
-
- 
- </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bariscanates-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bariscanates)
